@@ -1,1 +1,4 @@
 this is a new txt
+hello world 
+today is tuesday
+nice day or not
